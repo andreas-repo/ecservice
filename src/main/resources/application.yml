@@ -1,0 +1,7 @@
+greeting:
+  message: "hello"
+
+quarkus:
+  datasource:
+    devservices:
+      enabled: false
